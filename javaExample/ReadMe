@@ -1,1 +1,5 @@
-cafe simulation
+Cafe Simulation
+---------------------------------------------------------
+We want to write a system that does customer management for coffee shops. 
+We work for Starbuck and Nero firm. Both companies want to register their customers in the database. 
+Starbucks always requires mernis verification when registering customers. Nero doesn't want this when registering clients.
